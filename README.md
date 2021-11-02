@@ -3,12 +3,12 @@
 I’m an web developer based in Toulouse
 </p>
 <h1 align="center"> 📊 Stats: </h1>
-
-
-<h1 align="center"> ☕ Donation: </h1>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/julienchapron" target="_blank">
-    <img src="https://img.shields.io/badge/Donate-michyamrane-yellow?style=for-the-badge&amp;logo=BuyMeACoffee" alt="Donate">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=julienchapron&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julienchapron&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  height="165">
   </a>
 </p>
 
