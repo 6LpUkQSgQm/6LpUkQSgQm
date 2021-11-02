@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 </h1>
 <p align="center">i’m Julien Chapron.
-I’m an web developer based in Toulouse
+I’m a web developer based in Toulouse
 </p>
 <h1 align="center"> 📊 Stats: </h1>
 <p align="center">
