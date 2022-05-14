@@ -2,12 +2,6 @@
 <p align="center">i’m Julien Chapron.
 I’m a web developer based in Toulouse, France
 </p>
-<h1 align="center"> 🔥 Contributions: </h1>
-<p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=julienchapron&theme=react-dark&hide_border=true">
-  </a>
-</p>
 
 <h2 align="center"> 🧮 Counter: </h2>
 <p align="center">
