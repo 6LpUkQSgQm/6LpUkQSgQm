@@ -12,7 +12,6 @@ I’m a web developer based in Toulouse, France
     
 <h2 align="center">My soft</h2>
 
-![image](https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white)
 ![image](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
 ![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -24,4 +23,5 @@ I’m a web developer based in Toulouse, France
 ![image](https://img.shields.io/badge/Deno-464647?style=for-the-badge&logo=deno&logoColor=white)
 ![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![image](https://img.shields.io/badge/GraphQL-ff007f?style=for-the-badge&logo=GraphQL&logoColor=white)
+![image](https://img.shields.io/badge/MongoDB-008000?style=for-the-badge&logo=MongoDB&logoColor=white)
