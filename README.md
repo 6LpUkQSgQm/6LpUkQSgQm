@@ -25,6 +25,6 @@ I’m a web developer based in Toulouse, France
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![image](https://img.shields.io/badge/GraphQL-ff007f?style=for-the-badge&logo=GraphQL&logoColor=white)
 ![image](https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=black)
-![image](https://img.shields.io/badge/Docker-0000FF?style=for-the-badge&logo=docker&logoColor=blue)
+![image](https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=blue)
 
 
