@@ -7,13 +7,9 @@
 </p>
     
 <h2 align="center">My soft</h2>
-
+    
 ![image](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
-
-![image](https://img.shields.io/badge/Fedora-D3D3D3?style=for-the-badge&logo=fedora&logoColor=blue)
-![image](https://img.shields.io/badge/Parrot_OS-D3D3D3?style=for-the-badge&logo=parrot&logoColor=blue)
 ![image](https://img.shields.io/badge/Graphene_OS-D3D3D3?style=for-the-badge&logo=grapheneOS&logoColor=black)
-
 ![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
