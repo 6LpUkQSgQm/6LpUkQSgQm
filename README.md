@@ -1,10 +1,5 @@
 <h1 align="center">👋 Hi there</h1>
 <p align="center">I’m a web developer based in Toulouse, France</p>
-<p align="center">
-  <a href="https://github.com/ESKYoung/shields-io-visitor-counter" target="_blank">
-  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=6LpUkQSgQm.6LpUkQSgQm&style=for-the-badge">
-<a>
-</p>
     
 <h2 align="center">Privacy</h2>
     
